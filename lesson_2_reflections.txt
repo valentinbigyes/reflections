@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+In the directory a hidden folder .git is created. This folder is used by git to store the meta data about the repository.
+
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It must not contain all files from th working directory. Thereby I can commit only a fraction of a multitude of changes and form logically isolated commits in the repo.
+
+
+
+
