@@ -1,3 +1,4 @@
+Q1
 What happens when you initialize a repository? Why do you need to do it?
 
 In the directory a hidden folder .git is created. This folder is used by git to store the meta data about the repository.
@@ -5,11 +6,16 @@ In the directory a hidden folder .git is created. This folder is used by git to 
 
 
 
-
+Q2
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It must not contain all files from th working directory. Thereby I can commit only a fraction of a multitude of changes and form logically isolated commits in the repo.
 
 
+
+Q3
+How can you use the staging area to make sure you have one commit per logical change?
+
+If I changed several files, ican draw them into the changing are 1 by 1 and commit them. But if I changed 1 file several times it is always togeter as 1 commmit.
 
 
