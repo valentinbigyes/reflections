@@ -1,0 +1,106 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I only had to read through 3 lines, not 30.
+
+Lesson 1 was on diff
+Diff is the Basis of Git and Versioning
+
+On the way I learned a lot:
+Use the Command Line
+See System Files
+Find answers in the internet
+For example escaping spaces in file names
+where my application files are saved
+how to see all files in a directory
+how to adapt a path
+how to create a file without an ending
+and that command line and linux is case sensitiv
+
+and i started this git course because i need it to set up my virtual machine for the create an web app course
+afterwards i will have to get familiar with python
+three things to know
+creating a method
+creating a class
+inheritance
+
+and get familiar with sql
+insert into
+select
+update
+delete
+
+and css and html
+
+super nice!
+after creating the menu app i will create my own version of the earth.org light app
+
+bigyes!
+
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can try out something and if it does not work go back to the latest working version
+
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros
+	I can create a commit (a Version) after a logical step
+	I can write a comment to it
+
+cons
+	I might forget to commit changes and some of my work might get lost
+	I might make a commit too large, therefore too many things changed and a bug is hard to find
+	I might commit too late and Versions get mixed up when pthers work on similar files at the same time
+	Commit at least every evening
+
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git is designed to serve documents, that are interrelated.
+Therefore Git works with repositories - a collection of files that belong together
+GDocs are stand alone.
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+to use git log I have to be in the directory of defined as repository ( I suppose)
+git log shows me all the commits
+git diff shows me the lines edited between two commits
+
+
+
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+I can commmit a state i am happy with and afterwards try new stuff, always knowing I can come back to happy land.
+I do not need to worry about not remebering wht i changed. Awesome
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Fix the androids game
+
+
+
+
+
+
+
+
+
+
