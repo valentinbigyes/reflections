@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    I can run a git diff master origin/master (the last being the latest state Inlnow of from the remote) and without having to be online understand what changed in the remote version while still working on my local versio seperately. Updating the local copy of the remote master without directly merging it into my local master is done by git fetch origin.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
