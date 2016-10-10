@@ -46,3 +46,13 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is a combination of all changes in the two branches. And a new commit with these two.
 
 
+
+Q7
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro is that I do not have to review all changes that potentially do not influence each other. Huge time saving.
+Cons: some changes I do not see.
+I suppose, that after a merge a bug could evolve, because two lines do not .. or macybe not. Because in code things can only interact when they are defined in the same lines.
+
+
+
