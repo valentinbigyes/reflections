@@ -19,3 +19,23 @@ How can you use the staging area to make sure you have one commit per logical ch
 If I changed several files, ican draw them into the changing are 1 by 1 and commit them. But if I changed 1 file several times it is always togeter as 1 commmit.
 
 
+
+Q4
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Building a translated Version step by step over time.
+Trying out a new feature.
+Building a new feature while somebody else builds a feature at the same time.
+I can make channges and can always go back. I can keep up, and develop, a working preview or system in parallel.
+
+
+
+
+Q5
+How do the diagrams help you visualize the branch structure?
+
+not eyery log contains all commits.
+making a diagram of commit logs from each tip (branch end) and looking where these logs intersect i can build up a tree structure.
+This tree is helpful, to see what features and changes will be included from each branch when I plan a merge.
+
+
