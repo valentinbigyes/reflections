@@ -39,3 +39,10 @@ making a diagram of commit logs from each tip (branch end) and looking where the
 This tree is helpful, to see what features and changes will be included from each branch when I plan a merge.
 
 
+
+Q6
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a combination of all changes in the two branches. And a new commit with these two.
+
+
