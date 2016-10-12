@@ -31,4 +31,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    On my local machine I use a different branch to try out new additions while keeping a working version.
+    When collaborating with others the master is there to be the common ground on which everybody can base his or hers work.
+    If I would update the master with my individual changes, everbody would have to incorporate these changes into their work (merge them into their branches) - there would be the danger of changing something underneath their feet.
+    Therefore the master brmanch is only updated in a collaborative way that ensures that everybodys needs are considered.
